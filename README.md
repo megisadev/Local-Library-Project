@@ -7,5 +7,5 @@ Native array methods find() and filter() have been used in the code of this proj
 This project was slightly more difficult, as JavaScript does not come easily to me.  I had a lot of trial and error within the Qualified assignment, but I was able to successfully complete it by referencing previous lessons and utilizing the MDN website extensively. 
 ## AI Usage
 No AI tools were used in this project.  
-##Replit
+## Replit
 Replit screenshots are no longer possible to use in these projects as Replit has changed their website and free accounts no longer have access to the same tools. 
