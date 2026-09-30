@@ -9,3 +9,5 @@ This project was slightly more difficult, as JavaScript does not come easily to 
 No AI tools were used in this project.  
 ## Replit
 Replit screenshots are no longer possible to use in these projects as Replit has changed their website and free accounts no longer have access to the same tools. 
+## Git Commit History
+<img width="1362" height="618" alt="Screenshot 2026-09-30 101432" src="https://github.com/user-attachments/assets/6a0a7979-bd4f-4e7f-8110-5c8a36473ae9" />
